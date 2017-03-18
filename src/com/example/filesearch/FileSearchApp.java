@@ -1,3 +1,7 @@
+/**
+ * This is just a sample comment to setup git
+ */
+
 package com.example.filesearch;
 
 import java.io.File;
